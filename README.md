@@ -42,6 +42,8 @@
     <td valign="middle" width="40%">
       <div align="center">
         <h2>📊 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=vamsikadaru&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <br/><br/>
         <img src="https://nirzak-streak-stats.vercel.app/?user=vamsikadaru&hide_border=true" alt="GitHub Streak" />
       </div>
     </td>
