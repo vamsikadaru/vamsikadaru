@@ -42,7 +42,7 @@
     <td valign="middle" width="40%">
       <div align="center">
         <h2>📊 GitHub Stats</h2>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=vamsikadaru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=vamsikadaru&hide_border=true" alt="GitHub Streak" />
       </div>
     </td>
   </tr>
@@ -112,7 +112,7 @@
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote" />
 </div>
 
 
