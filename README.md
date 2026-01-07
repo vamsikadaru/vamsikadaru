@@ -24,19 +24,19 @@
       <b>I’m currently working on</b><br/>
       Building scalable backend services using Java, Spring Boot, REST APIs, and databases like PostgreSQL & MongoDB, with a strong focus on clean architecture and production-ready code.
       <br/><br/>
-      <b>👯 I’m looking to collaborate on</b><br/>
+      <b>I’m looking to collaborate on</b><br/>
       Backend-heavy projects, Spring Boot microservices, open-source contributions, and real-world applications that solve meaningful problems.
       <br/><br/>
-      <b>🤝 I’m looking for help with</b><br/>
+      <b>I’m looking for help with</b><br/>
       System design, distributed systems, performance optimization, and best practices for large-scale backend systems.
       <br/><br/>
-      <b>🌱 I’m currently learning</b><br/>
+      <b>I’m currently learning</b><br/>
       Advanced Spring Boot, microservices architecture, AWS, CI/CD pipelines, and DSA for interviews.
       <br/><br/>
-      <b>💬 Ask me about</b><br/>
+      <b>Ask me about</b><br/>
       Java, Spring Boot, REST APIs, backend debugging, database design, Git/GitHub workflows, and interview preparation.
       <br/><br/>
-      <b>⚡ Fun fact</b><br/>
+      <b>Fun fact</b><br/>
       I enjoy turning complex backend problems into simple, efficient solutions—and I’m a big fan of clean, readable code.
     </td>
     <td valign="middle" width="40%">
