@@ -39,14 +39,14 @@
       <b>⚡ Fun fact</b><br/>
       I enjoy turning complex backend problems into simple, efficient solutions—and I’m a big fan of clean, readable code.
     </td>
-    <td valign="top" width="40%">
+    <td valign="middle" width="40%">
       <div align="center">
         <h2>📊 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=vamsikadaru&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-        <br/><br/>
         <img src="https://nirzak-streak-stats.vercel.app/?user=vamsikadaru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
         <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikadaru&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <a href="https://visitcount.itsvg.in">
+          <img src="https://visitcount.itsvg.in/api?id=vamsikadaru&icon=0&color=0" alt="Visit Count" />
+        </a>
       </div>
     </td>
   </tr>
@@ -122,9 +122,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
-<div align="center">
-  <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vamsikadaru&icon=0&color=0" alt="Visit Count" />
-  </a>
-</div>
+
