@@ -42,7 +42,7 @@
     <td valign="middle" width="40%">
       <div align="center">
         <h2>📊 GitHub Stats</h2>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=vamsikadaru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=vamsikadaru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </div>
     </td>
   </tr>
@@ -50,7 +50,7 @@
 
 <!-- Snake Animation -->
 <div align="center"> 
-  <img src="https://github.com/vamsikadaru/vamsikadaru/blob/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/vamsikadaru/vamsikadaru/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <hr/>
